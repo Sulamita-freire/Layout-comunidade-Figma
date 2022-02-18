@@ -1,0 +1,63 @@
+
+.conteudo {
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+}
+
+.conteudo-texto {
+  text-align: center;
+  margin-left: 7.5rem;
+
+}
+
+.conteudo-titulo {
+  padding-bottom: 4rem;
+  font-size: 7rem;
+  font-family: 'Manrope', sans-serif;
+  font-weight: 800;
+  max-width: 60rem;
+}
+
+.conteudo-p1 {
+  padding-bottom: 4rem;
+  font-size: 2.4rem;
+  font-family: 'Manrope', sans-serif;
+  font-weight: 500;
+  max-width: 60rem;
+}
+
+.conteudo-caixa{
+  width: 31rem;
+  height: 6rem;
+  border: 3px solid black;
+
+}
+.conteudo-caixa2{
+  width: 31rem;
+  height: 6rem;
+  background-color: black;
+  color: white;
+  position: relative;
+  right: 1rem;
+}
+
+.conteudo-p2 {
+  padding-top: 1rem;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 500;
+    font-size: 1.4rem;
+    max-width: 26.6rem;
+}
+
+.conteudo-img{
+  position: absolute;
+  left: 43.54%;
+  right: -1.88%;
+  top: 0%;
+  bottom: 2%;
+  max-height: 70rem;
+}
+
+
+  
